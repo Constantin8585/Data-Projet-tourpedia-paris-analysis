@@ -1,4 +1,4 @@
-# 🗼 TourPedia Paris — Big Data & ML Analysis
+#  TourPedia Paris — Big Data & ML Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_USERNAME/tourpedia-paris-analysis/blob/main/TourPedia_Paris_Analysis.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Présentation
+## Présentation
 
 Ce projet démontre un pipeline **end-to-end** de Data Science appliqué à des données réelles de tourisme
 parisien : chargement, nettoyage, exploration, visualisation géospatiale, clustering et modélisation
@@ -28,7 +28,7 @@ prédictive — le tout dans un notebook Google Colab exécutable en un clic.
 
 ---
 
-## 📊 Résultats clés
+## Résultats clés
 
 | Métrique | Valeur |
 |---|---|
@@ -41,7 +41,7 @@ prédictive — le tout dans un notebook Google Colab exécutable en un clic.
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ```
 tourpedia-paris-analysis/
@@ -57,7 +57,7 @@ tourpedia-paris-analysis/
 
 ---
 
-## 🏗️ Architecture du pipeline
+## Architecture du pipeline
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -109,7 +109,7 @@ tourpedia-paris-analysis/
 
 ---
 
-## ⚙️ Lancer le projet
+## Lancer le projet
 
 ### Option 1 — Google Colab (recommandé, zéro installation)
 1. Cliquer sur le badge **Open in Colab** en haut du README
@@ -137,7 +137,7 @@ jupyter notebook TourPedia_Paris_Analysis.ipynb
 
 ---
 
-## 🔬 Stack technique
+## Stack technique
 
 | Outil | Usage |
 |---|---|
@@ -167,7 +167,7 @@ Foursquare, Google Places et Facebook.
 
 ---
 
-## 🚀 Pistes d'amélioration
+## Pistes d'amélioration
 
 - [ ] **NLP** : analyse de sentiment des textes avec CamemBERT (Hugging Face)
 - [ ] **Séries temporelles** : évolution des avis 2011–2015
@@ -177,14 +177,14 @@ Foursquare, Google Places et Facebook.
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Constantin GADEGBE**
-Master Ingénierie IA — Université Paris 8
+Etudiant 
 [gadegbeabednego@gmail.com](mailto:gadegbeabednego@gmail.com) · [LinkedIn](https://www.linkedin.com/in/constantin-gadegbe)
 
 ---
 
-## 📜 Licence
+## Licence
 
 Ce projet est sous licence MIT. Dataset TourPedia sous licence Creative Commons.
