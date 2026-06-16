@@ -1,9 +1,8 @@
 #  TourPedia Paris — Big Data & ML Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TON_USERNAME/tourpedia-paris-analysis/blob/main/TourPedia_Paris_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ascUC2Vd1ykM4DLXIM82gNPz17vGhQM6?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4%2B-orange.svg)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Analyse complète du dataset TourPedia Paris : **56 361 lieux** (restaurants, hôtels, attractions, POIs)
 > et **86 000+ avis** collectés depuis Foursquare, Google Places et Facebook.
@@ -120,18 +119,13 @@ tourpedia-paris-analysis/
 ### Option 2 — Environnement local
 ```bash
 # 1. Cloner le repo
-git clone https://github.com/TON_USERNAME/tourpedia-paris-analysis.git
+git clone git@github.com:Constantin8585/Data-Projet-tourpedia-paris-analysis.git
 cd tourpedia-paris-analysis
 
-# 2. Créer un environnement virtuel
-python -m venv .venv
-source .venv/bin/activate       # Linux/Mac
-# .venv\Scripts\activate        # Windows
-
-# 3. Installer les dépendances
+# 2. Installer les dépendances
 pip install -r requirements.txt
 
-# 4. Lancer Jupyter
+# 3. Lancer Jupyter
 jupyter notebook TourPedia_Paris_Analysis.ipynb
 ```
 
@@ -150,7 +144,7 @@ jupyter notebook TourPedia_Paris_Analysis.ipynb
 
 ---
 
-## 📖 Description du dataset
+## Description du dataset
 
 | Champ | Type | Description |
 |---|---|---|
@@ -182,9 +176,3 @@ Foursquare, Google Places et Facebook.
 **Constantin GADEGBE**
 Etudiant 
 [gadegbeabednego@gmail.com](mailto:gadegbeabednego@gmail.com) · [LinkedIn](https://www.linkedin.com/in/constantin-gadegbe)
-
----
-
-## Licence
-
-Ce projet est sous licence MIT. Dataset TourPedia sous licence Creative Commons.
